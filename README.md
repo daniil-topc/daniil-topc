@@ -1,16 +1,50 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**daniil-topc/daniil-topc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://your-image-url.com/avatar.png" width="180" />
 
-Here are some ideas to get you started:
+# Daniil
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frontend Developer · JavaScript · React
+
+Creating modern, responsive and user-friendly websites.
+
+</div>
+
+---
+
+## 🚀 Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode,figma" />
+
+</div>
+
+---
+
+## 👨‍💻 About me
+
+- Frontend developer
+- Building responsive websites from Figma
+- Working with JavaScript and React
+- Currently improving my frontend skills
+- Open to freelance projects
+
+---
+
+## 🔥 Projects
+
+### DudeShape
+
+Responsive furniture landing page with JavaScript interactions.
+
+[Live Demo](https://daniil-topc.github.io/DudeShape-WebSite/) ·
+[GitHub](https://github.com/daniil-topc/DudeShape-WebSite)
+
+---
+
+## 📫 Contact
+
+Instagram: `@frontend_dev`
+
+GitHub: `@daniil-topc`
