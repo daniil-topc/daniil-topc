@@ -2,7 +2,7 @@
 
 # Daniil
 
-### Frontend Developer · JavaScript · React
+### Frontend Developer · JavaScript
 
 Creating modern, responsive and user-friendly websites.
 
