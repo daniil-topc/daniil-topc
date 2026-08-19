@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://your-image-url.com/avatar.png" width="180" />
-
 # Daniil
 
 ### Frontend Developer · JavaScript · React
@@ -16,7 +14,7 @@ Creating modern, responsive and user-friendly websites.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,webstorm,figma" />
 
 </div>
 
